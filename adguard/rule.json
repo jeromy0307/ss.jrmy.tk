@@ -1,1 +1,79 @@
-{"protocol-version":"1.0","general-settings":{"app-language":"zh-CN","allow-acceptable-ads":true,"show-blocked-ads-count":true,"autodetect-filters":true,"safebrowsing-enabled":true,"filters-update-period":-1},"extension-specific-settings":{"use-optimized-filters":true,"collect-hits-count":false,"show-context-menu":true,"show-info-about-adguard":true,"show-app-updated-info":true},"filters":{"enabled-groups":[1,2,4,5,6,7,0],"enabled-filters":[10,14,17,1,224,2,3,7,9,104,227],"custom-filters":[{"customUrl":"https://ss.jrmy.tk/adguard/rule.txt","enabled":true,"title":"https://ss.jrmy.tk/adguard/rule.txt","trusted":true}],"user-filter":{"rules":"@@||skeyword.browser.qq.com/getHotRank$domain=feeds.qq.com\n@@||skeyword.browser.qq.com/getHotRank$domain=feeds.qq.com,match-case\n@@||pv.sohu.com/cityjson\n@@||f-counter.net^$domain=www.tcfsh312.tk\n@@||f-counter.net^$domain=myhousesystem.tk\n@@||embed.tawk.to^\n123kubo.tv###conch-content > div:nth-child(2) > a > img\n123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(6) > a\n123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(10) > a\n123kubo.tv###ad1007","disabled-rules":""},"whitelist":{"inverted":false,"domains":["www.tvmao.com","signup.cloud.oracle.com","myssl.com","app.degoo.com","science-event.nctu.edu.tw","www.ondemandchina.com","shop.deeper.network","dash.cloudflare.com"],"inverted-domains":[]}}}
+{
+  "protocol-version": "1.0",
+  "general-settings": {
+    "app-language": "zh-TW",
+    "allow-acceptable-ads": true,
+    "show-blocked-ads-count": true,
+    "autodetect-filters": true,
+    "safebrowsing-enabled": true,
+    "filters-update-period": -1
+  },
+  "extension-specific-settings": {
+    "use-optimized-filters": true,
+    "collect-hits-count": false,
+    "show-context-menu": true,
+    "show-info-about-adguard": true,
+    "show-app-updated-info": true
+  },
+  "filters": {
+    "enabled-groups": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      0
+    ],
+    "enabled-filters": [
+      10,
+      14,
+      17,
+      1,
+      224,
+      2,
+      3,
+      7,
+      9,
+      104,
+      227
+    ],
+    "custom-filters": [
+      {
+        "customUrl": "https://ss.jrmy.tk/adguard/rule.txt",
+        "enabled": true,
+        "title": "https://ss.jrmy.tk/adguard/rule.txt",
+        "trusted": true
+      }
+    ],
+    "user-filter": {
+      "rules": "@@||skeyword.browser.qq.com/getHotRank$domain=feeds.qq.com\n@@||skeyword.browser.qq.com/getHotRank$domain=feeds.qq.com,match-case\n@@||pv.sohu.com/cityjson\n@@||f-counter.net^$domain=www.tcfsh312.tk\n@@||f-counter.net^$domain=myhousesystem.tk\n@@||embed.tawk.to^\n123kubo.tv###conch-content > div:nth-child(2) > a > img\n123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(6) > a\n123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(10) > a\n123kubo.tv###ad1007",
+      "disabled-rules": ""
+    },
+    "whitelist": {
+      "inverted": false,
+      "domains": [
+        "www.tvmao.com",
+        "signup.cloud.oracle.com",
+        "myssl.com",
+        "app.degoo.com",
+        "science-event.nctu.edu.tw",
+        "www.ondemandchina.com",
+        "shop.deeper.network",
+        "dash.cloudflare.com",
+        "www.oracle.com",
+        "signup.cloud.oracle.com",
+        "m.iqiyi.com",
+        "www.iq.com",
+        "baike.baidu.com",
+        "myssl.com",
+        "tvmao.com",
+        "glb.m.mgtv.com",
+        "myhouse7605.tk"
+      ],
+      "inverted-domains": [
+        
+      ]
+    }
+  }
+}
