@@ -4,8 +4,15 @@
 @@||f-counter.net^$domain=www.tcfsh312.tk
 @@||f-counter.net^$domain=myhousesystem.tk
 @@||embed.tawk.to^
+@@||sealres.trustasia.com^
+@@||seal.knowsafe.com^
+@@||sealres.myssl.com/seal^
 123kubo.tv###conch-content > div:nth-child(2) > a > img
 123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(6) > a
 123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(10) > a
 123kubo.tv###ad1007
-123kubo.tv###conch-content > div.conch-ctwrap.hl-pa0:nth-child(2) > div:nth-child(2) > a
+google-analytics.com^
+hm.baidu.com^
+@@||static.hotjar.com^
+@@||script.hotjar.com^
+@@||vars.hotjar.com^
