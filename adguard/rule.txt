@@ -19,3 +19,7 @@ hm.baidu.com^
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:first-child > a > img
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:last-child > a > img
 gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:nth-child(7) > a.black-font
+gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:nth-child(7) > a
+gimytv.com##nav.myui-header__top.scrollbar.clearfix:nth-child(2) > ul.myui-header__menu:last-child > li:nth-child(6) > a
+gimytv.com##nav.myui-header__top.scrollbar.clearfix:nth-child(2) > ul.myui-header__menu:last-child > li:nth-child(7) > a
+gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:last-child > a:first-child
