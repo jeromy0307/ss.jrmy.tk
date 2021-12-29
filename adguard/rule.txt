@@ -18,3 +18,4 @@ hm.baidu.com^
 @@||vars.hotjar.com^
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:first-child > a > img
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:last-child > a > img
+gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:nth-child(7) > a.black-font
