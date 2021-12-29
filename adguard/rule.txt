@@ -52,3 +52,7 @@ imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.c
 bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.mobile-main.mobile-main-type:first-child > div.banner-box:nth-child(3)
 bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.sidebar.list-w-b:last-child > div.top-sticky
 bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.mobile-main.mobile-main-type:first-child > div.banner-box:nth-child(4)
+gimy.app##div.my-scrollmenu.visible-xs:nth-child(2) > a.head-menu-a:nth-child(6)
+gimy.app##div.my-scrollmenu.visible-xs:nth-child(2) > a.head-menu-a:nth-child(7)
+gimy.app###footer-nav-recommend > a > img.app-img.normal
+imaple.tv###dhgb > div.header:last-child > div.head_b > div.head_menu_b:nth-child(5) > a.menu:first-child
