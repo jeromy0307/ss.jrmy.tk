@@ -43,3 +43,8 @@ www.nbyy.tv###nav-link-6
 www.nbyy.tv###nav-link-7
 www.mudvod.tv###nav-link-6
 www.mudvod.tv###nav-link-7
+imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(2) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1
+123kubo.net###header-top > div.container:first-child > div.row > ul.myui-header__menu.nav-menu:nth-child(2) > li.hidden-md.hidden-sm.hidden-xs:last-child
+bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.mobile-main.mobile-main-type:first-child > div.banner-box:nth-child(3)
+bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.sidebar.list-w-b:last-child > div.top-sticky
+bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.mobile-main.mobile-main-type:first-child > div.banner-box:nth-child(4)
