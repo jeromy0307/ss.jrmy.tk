@@ -23,3 +23,14 @@ gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child >
 gimytv.com##nav.myui-header__top.scrollbar.clearfix:nth-child(2) > ul.myui-header__menu:last-child > li:nth-child(6) > a
 gimytv.com##nav.myui-header__top.scrollbar.clearfix:nth-child(2) > ul.myui-header__menu:last-child > li:nth-child(7) > a
 gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:last-child > a:first-child
+xkyy8.com##div.hot_banner.www\.ppzhu\.tv:nth-child(2) > div.head_box:nth-child(2) > div.header:first-child > div.head_a:last-child > div.head_menu_a.hidden_xs.hidden_mi:nth-child(2) > ul.top_nav.clearfix > li:last-child
+xkyy8.com##div.hot_banner.www\.kv321\.com:first-child > div.head_box:nth-child(2) > div.header:first-child > div.head_a:last-child > div.head_menu_a.hidden_xs.hidden_mi:nth-child(2) > ul.top_nav.clearfix > li:last-child
+xkyy8.com##div.head_box:first-child > div.header:first-child > div.head_a:last-child > div.head_menu_a.hidden_xs.hidden_mi:nth-child(2) > ul.top_nav.clearfix > li:last-child
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.hidden-md.hidden-sm.hidden-xs:last-child > a
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.hidden-md.hidden-sm.hidden-xs:nth-child(8) > a
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.active.dropdown-hover.hidden-sm.hidden-xs:nth-child(7) > a
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.dropdown-hover.hidden-sm.hidden-xs:nth-child(7) > a
+imaple.tv###dhgb > div.header:first-child > div.head_a > div.head_menu_a.hidden_xs.hidden_mi:nth-child(2) > ul.top_nav.clearfix > li:last-child
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(6) > a.btn.btn-sm.btn-block.btn-default
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(7) > a.btn.btn-sm.btn-block.btn-default
+imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(8) > a.btn.btn-sm.btn-block.btn-default
