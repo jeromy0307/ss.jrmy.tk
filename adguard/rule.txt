@@ -16,3 +16,5 @@ hm.baidu.com^
 @@||static.hotjar.com^
 @@||script.hotjar.com^
 @@||vars.hotjar.com^
+imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:first-child > a > img
+imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:last-child > a > img
