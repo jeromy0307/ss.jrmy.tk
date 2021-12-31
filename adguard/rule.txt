@@ -58,3 +58,4 @@ gimy.app###footer-nav-recommend > a > img.app-img.normal
 imaple.tv###dhgb > div.header:last-child > div.head_b > div.head_menu_b:nth-child(5) > a.menu:first-child
 123kubo.tv###conch-content > div.conch-ctwrap.hl-pa0:nth-child(2) > div:nth-child(2)
 @@||clustrmaps.com/map_v2.png$domain=tcfsh312.tk,important,third-party
+@@||clustrmaps.com/map_v2.png$domain=myhousesystem.tk,important,third-party
