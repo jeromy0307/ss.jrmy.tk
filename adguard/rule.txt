@@ -59,3 +59,4 @@ imaple.tv###dhgb > div.header:last-child > div.head_b > div.head_menu_b:nth-chil
 123kubo.tv###conch-content > div.conch-ctwrap.hl-pa0:nth-child(2) > div:nth-child(2)
 @@||clustrmaps.com/map_v2.png$domain=tcfsh312.tk,important,third-party
 @@||clustrmaps.com/map_v2.png$domain=myhousesystem.tk,important,third-party
+tw.yahoo.com###wafer-app-promo-banner > div.Bgc\(\$c-fuji-charcoal\).D\(f\).Pos\(f\).B\(56px\).Start\(0\).End\(0\).Z\(3\).Mih\(82px\):first-child
