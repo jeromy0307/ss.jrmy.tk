@@ -7,15 +7,30 @@
 @@||sealres.trustasia.com^
 @@||seal.knowsafe.com^
 @@||sealres.myssl.com/seal^
+@@||static.hotjar.com^
+@@||script.hotjar.com^
+@@||vars.hotjar.com^
+@@||clustrmaps.com/map_v2.png$domain=tcfsh312.tk,important,third-party
+@@||clustrmaps.com/map_v2.png$domain=myhousesystem.tk,important,third-party
+@@||clustrmaps.com/map_v2.png$domain=jrmy.tk,important,third-party
+nbyy.tv###nav-link-8
+nbyy.tv###nav-link-7
+mudvod.tv###nav-link-8
+mudvod.tv###nav-link-7
+www.nbyy.tv###nav-link-8
+www.nbyy.tv###nav-link-7
+www.mudvod.tv###nav-link-8
+www.mudvod.tv###nav-link-7
+nbyy.tv###nav_channel7
+www.nbyy.tv###nav_channel7
+mudvod.tv###nav_channel7
+www.mudvod.tv###nav_channel7
 123kubo.tv###conch-content > div:nth-child(2) > a > img
 123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(6) > a
 123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(10) > a
 123kubo.tv###ad1007
 google-analytics.com^
 hm.baidu.com^
-@@||static.hotjar.com^
-@@||script.hotjar.com^
-@@||vars.hotjar.com^
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:first-child > a > img
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1 > div:last-child > a > img
 gimy.app###example-navbar-collapse > ul.nav.navbar-nav.navbar-left:first-child > li:nth-child(7) > a.black-font
@@ -35,18 +50,6 @@ imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-chil
 imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(7) > a.btn.btn-sm.btn-block.btn-default
 imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(8) > a.btn.btn-sm.btn-block.btn-default
 imaple.co###header-top > div.container > div.row > ul.myui-header__menu:nth-child(2) > li.search-ul.dropdown-hover:first-child > div.dropdown-box.bottom.fadeInDown.clearfix:last-child > ul.item.nav-list.clearfix > li.col-lg-5.col-md-5.col-sm-5.col-xs-3:nth-child(9) > a.btn.btn-sm.btn-block.btn-default
-nbyy.tv###nav-link-8
-nbyy.tv###nav-link-7
-mudvod.tv###nav-link-8
-mudvod.tv###nav-link-7
-www.nbyy.tv###nav-link-8
-www.nbyy.tv###nav-link-7
-www.mudvod.tv###nav-link-8
-www.mudvod.tv###nav-link-7
-nbyy.tv###nav_channel7
-www.nbyy.tv###nav_channel7
-mudvod.tv###nav_channel7
-www.mudvod.tv###nav_channel7
 imaple.co##div.container:nth-child(6) > div.row > div.myui-panel.myui-panel-bg.clearfix:nth-child(2) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1
 123kubo.net###header-top > div.container:first-child > div.row > ul.myui-header__menu.nav-menu:nth-child(2) > li.hidden-md.hidden-sm.hidden-xs:last-child
 bzhanyy.com##div.details:nth-child(4) > div.container.flex:nth-child(2) > div.mobile-main.mobile-main-type:first-child > div.banner-box:nth-child(3)
@@ -57,6 +60,4 @@ gimy.app##div.my-scrollmenu.visible-xs:nth-child(2) > a.head-menu-a:nth-child(7)
 gimy.app###footer-nav-recommend > a > img.app-img.normal
 imaple.tv###dhgb > div.header:last-child > div.head_b > div.head_menu_b:nth-child(5) > a.menu:first-child
 123kubo.tv###conch-content > div.conch-ctwrap.hl-pa0:nth-child(2) > div:nth-child(2)
-@@||clustrmaps.com/map_v2.png$domain=tcfsh312.tk,important,third-party
-@@||clustrmaps.com/map_v2.png$domain=myhousesystem.tk,important,third-party
 tw.yahoo.com###wafer-app-promo-banner > div.Bgc\(\$c-fuji-charcoal\).D\(f\).Pos\(f\).B\(56px\).Start\(0\).End\(0\).Z\(3\).Mih\(82px\):first-child
