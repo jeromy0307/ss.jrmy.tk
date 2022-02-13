@@ -61,3 +61,11 @@ gimy.app###footer-nav-recommend > a > img.app-img.normal
 imaple.tv###dhgb > div.header:last-child > div.head_b > div.head_menu_b:nth-child(5) > a.menu:first-child
 123kubo.tv###conch-content > div.conch-ctwrap.hl-pa0:nth-child(2) > div:nth-child(2)
 tw.yahoo.com###wafer-app-promo-banner > div.Bgc\(\$c-fuji-charcoal\).D\(f\).Pos\(f\).B\(56px\).Start\(0\).End\(0\).Z\(3\).Mih\(82px\):first-child
+news.pchome.com.tw##div.adguard-placeholder-icon.adguard_sg_ignore > div.adguard-placeholder-domain.adguard_sg_ignore
+news.pchome.com.tw###pchome8044_ad_frame1
+news.pchome.com.tw###side-area > div.sidebar.clearfix
+news.pchome.com.tw###aswift_0
+news.pchome.com.tw##ins.adsbygoogle.adsbygoogle-noablate:nth-child(14)
+123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(2)
+123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(2)
+123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(11)
