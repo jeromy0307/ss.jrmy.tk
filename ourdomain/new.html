@@ -1,0 +1,33 @@
+<script src="https://cdn.staticfile.org/jquery/1.10.0/jquery.js"></script>
+<style></style>
+<script>
+{
+	let dbdbn="https://ss.jrmy.tk/ourdomain/in.txt?"+Math.random();
+	$('#ittile3').load(dbdbn,function(responseTxt,statusTxt,xhr){
+		console.log(statusTxt);
+		if(statusTxt=="success")
+		{
+			let tmpit = $('#ittile3').html();
+			tmpit = String(tmpit);
+			//console.log(tmpit);
+			debugger;
+			if (tmpit==""||tmpit=="null"||tmpit=="indefined")
+			{
+				let tmpit = "系統無法獲取資料，請稍後再試！";
+				tmpit = String(tmpit);
+				$('#ittile3').html() = tmpit;
+				//console.log(tmpit);
+				debugger;
+			}
+		}
+		if(statusTxt=="error")
+		{
+			let tmpit = "系統無法獲取資料，請稍後再試！";
+			tmpit = String(tmpit);
+			$('#ittile3').html() = tmpit;
+			//console.log(tmpit);
+			debugger;
+		}
+	});
+}
+</script>
