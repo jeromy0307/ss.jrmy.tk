@@ -1,5 +1,5 @@
 <script src="https://cdn.staticfile.org/jquery/1.10.0/jquery.js"></script>
-<style>@media screen and (max-width: 720px) {#ittile3 {margin-left:2.5%;margin-right:2.5%;width:95%;display:block;} #ittile3 p {width:95%;} p:last-child {width:95%;margin-left:2.5%;margin-right:2.5%;postion:absolute;}}</style>
+<!--<style>@media screen and (max-width: 720px) {#ittile3 {margin-left:2.5%;margin-right:2.5%;width:95%;display:block;} #ittile3 p {width:95%;} p:last-child {width:95%;margin-left:2.5%;margin-right:2.5%;postion:absolute;}}</style>-->
 <div id="ittile3">
 系统無法獲取資料，請稍後再試！
 </div>
@@ -12,6 +12,8 @@
 		{
 			let tmpit = $('#ittile3').html();
 			tmpit = String(tmpit);
+			var w = $(window).width();
+			$('#ittile3').css('width',w);
 			//console.log(tmpit);
 			debugger;
 			if (tmpit==""||tmpit=="null"||tmpit=="indefined")
