@@ -17,6 +17,8 @@ nbyy.tv###nav-link-8
 nbyy.tv###nav-link-7
 mudvod.tv###nav-link-8
 mudvod.tv###nav-link-7
+www.nivod.tv###nav-link-8
+www.nivod.tv###nav-link-7
 www.nbyy.tv###nav-link-8
 www.nbyy.tv###nav-link-7
 www.mudvod.tv###nav-link-8
