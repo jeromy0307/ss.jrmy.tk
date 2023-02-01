@@ -3,7 +3,8 @@
 @@||pv.sohu.com/cityjson
 @@||f-counter.net^$domain=www.tcfsh312.tk
 @@||f-counter.net^$domain=myhousesystem.tk
-@@||widget.time.is^$domain=945133528-atari-embeds.googleusercontent.com
+@@||widget.time.is^$domain=www.gstatic.com
+@@||widget.time.is^$domain=sites.google.com
 @@||embed.tawk.to^
 @@||sealres.trustasia.com^
 @@||seal.knowsafe.com^
