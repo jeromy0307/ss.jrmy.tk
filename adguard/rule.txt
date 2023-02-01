@@ -24,6 +24,12 @@ www.nbyy.tv###nav-link-8
 www.nbyy.tv###nav-link-7
 www.mudvod.tv###nav-link-8
 www.mudvod.tv###nav-link-7
+www.nivod.tv###nav-link-8
+www.nivod.tv###nav-link-7
+www.nivod2.tv###nav-link-8
+www.nivod2.tv###nav-link-7
+nivod.tv###nav-link-8
+nivod.tv###nav-link-7
 nbyy.tv###nav_channel7
 www.nbyy.tv###nav_channel7
 mudvod.tv###nav_channel7
