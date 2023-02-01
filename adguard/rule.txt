@@ -3,6 +3,7 @@
 @@||pv.sohu.com/cityjson
 @@||f-counter.net^$domain=www.tcfsh312.tk
 @@||f-counter.net^$domain=myhousesystem.tk
+@@||widget.time.is
 @@||embed.tawk.to^
 @@||sealres.trustasia.com^
 @@||seal.knowsafe.com^
