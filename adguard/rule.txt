@@ -15,26 +15,8 @@
 @@||clustrmaps.com/map_v2.png$domain=tcfsh312.tk,important,third-party
 @@||clustrmaps.com/map_v2.png$domain=myhousesystem.tk,important,third-party
 @@||clustrmaps.com/map_v2.png$domain=jrmy.tk,important,third-party
-nbyy.tv###nav-link-8
-nbyy.tv###nav-link-7
-mudvod.tv###nav-link-8
-mudvod.tv###nav-link-7
-www.nivod.tv###nav-link-8
-www.nivod.tv###nav-link-7
-www.nbyy.tv###nav-link-8
-www.nbyy.tv###nav-link-7
-www.mudvod.tv###nav-link-8
-www.mudvod.tv###nav-link-7
-www.nivod.tv###nav-link-8
-www.nivod.tv###nav-link-7
-www.nivod2.tv###nav-link-8
-www.nivod2.tv###nav-link-7
-nivod.tv###nav-link-8
-nivod.tv###nav-link-7
-nbyy.tv###nav_channel7
-www.nbyy.tv###nav_channel7
-mudvod.tv###nav_channel7
-www.mudvod.tv###nav_channel7
+www.nivod4.tv###nav-link-8
+www.nivod4.tv###nav-link-7
 123kubo.tv###conch-content > div:nth-child(2) > a > img
 123kubo.tv###conch-header > div.conch-headwrap:first-child > div.container > div.conch-nav:last-child > div.hl-nav-wrap.hl-navswiper:first-child > ul.hl-nav.hl-text-site.swiper-wrapper.clearfix > li.hl-nav-item.hl-slide-swiper:nth-child(6) > a
 123kubo.tv###conch-header > div.conch-menus.hl-bg-site.hl-tran5.active:last-child > div.conch-scrollbar.swiper-container-initialized.swiper-container-vertical.swiper-container-free-mode:nth-child(2) > div.swiper-wrapper:first-child > div.conch-mswrap.swiper-slide.swiper-slide-active > ul.hl-menus.clearfix > li.hl-menus-item:nth-child(10) > a
