@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>顯示當前頁面 URL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        #urlDisplay {
+            font-size: 18px;
+            color: blue;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>當前頁面 URL：</h2>
+    <p id="urlDisplay">載入中...</p>
+
+    <script>
+        // 取得當前頁面 URL
+        const currentURL = window.location.href;
+        
+        // 顯示在 HTML 中
+        document.getElementById("urlDisplay").textContent = currentURL;
+    </script>
+
+</body>
+</html>
